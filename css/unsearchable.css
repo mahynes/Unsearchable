@@ -1,0 +1,26 @@
+.clear{clear:both;}
+.unsearchable__logo{display:block;}
+.unsearchable__header{
+    display:flex;
+    flex-direction: row; ;
+    height:80px;
+    justify-content: space-between;
+    border-bottom:1px solid black;
+}
+.unsearchable__filters{
+    margin-bottom:10px;
+    border-bottom:1px solid black;
+}
+.unsearchable__menu-toggle .icon-menu{
+    font-size:50px;
+    cursor: pointer;
+}
+.unsearchable__title{
+    margin-top:100px;
+}
+.unsearchable__search{
+    text-align: center;
+}
+@media (min-width: 768px){
+  
+}
